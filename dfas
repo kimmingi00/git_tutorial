@@ -1,0 +1,29 @@
+[33mcommit 80bc36eb5aa879b99fe790ac688ff419130a194a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kimmingi00 <kimmingi00@naver.com>
+Date:   Fri Dec 11 17:03:42 2020 +0900
+
+    add git commit --amend
+
+[33mcommit d6297d768124f14c24cf1c961c7fc4bc7f4f737d[m
+Author: kimmingi00 <kimmingi00@naver.com>
+Date:   Fri Dec 11 16:40:59 2020 +0900
+
+    add .gitignore
+
+[33mcommit 0d34e0423775decacb06b22dc935701038378f33[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: kimmingi00 <kimmingi00@naver.com>
+Date:   Fri Dec 11 15:55:47 2020 +0900
+
+    add git diff
+
+[33mcommit 696988188196b1dc99381f3bb01dc8923788ec53[m
+Author: kimmingi00 <kimmingi00@naver.com>
+Date:   Fri Dec 11 13:26:33 2020 +0900
+
+    add 'git status' command
+
+[33mcommit bd2f6b89168893c0d1990b7bb514d23238726455[m
+Author: kimmingi00 <kimmingi00@naver.com>
+Date:   Fri Dec 11 13:20:44 2020 +0900
+
+    initial commit
